@@ -5,7 +5,6 @@ Hola, mi nombre es Joel Guzman,Técnico de Nivel Superior en Programacion de Com
 
 MIS CONOCIMIENTOS:
 
-
 CUPAPACION ACTUAL:
 Estudiante
 
@@ -13,9 +12,8 @@ FORMACION ACADEMICA:
 
 Titulo de Programador de Computadoras
 
-
 CONTACTO
 
 Email: [churraskocom@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/fernando-guzm%C3%A1n-38320a295/]
-- Portafolio: [tuportafolio.com]
+LinkedIn: [https://www.linkedin.com/in/fernando-guzm%C3%A1n-38320a295/]
+
