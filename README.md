@@ -16,9 +16,11 @@ Microsoft Proyect, Programa para la Programación y Planificación.
 
 
 OCUPAPACION ACTUAL:
+
 Estudiante
 
 FORMACION ACADEMICA:
+
 Titulo de Programador de Computadoras
 
 CONTACTO
