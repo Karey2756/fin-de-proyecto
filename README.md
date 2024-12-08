@@ -14,9 +14,8 @@ FORMACION ACADEMICA:
 Titulo de Programador de Computadoras
 
 
-● ¿Cuáles son tus experiencias previas? y en caso que no tengas ¿por qué 
-deberían contactarte? 
-● ¿Cómo y a través de qué medios te pueden contactar? 
+CONTACTO
+
 Email: [churraskocom@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/fernando-guzm%C3%A1n-38320a295/]
 - Portafolio: [tuportafolio.com]
