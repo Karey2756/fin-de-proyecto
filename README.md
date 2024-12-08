@@ -23,5 +23,6 @@ Titulo de Programador de Computadoras
 CONTACTO
 
 Email: [churraskocom@gmail.com]
+
 LinkedIn: [https://www.linkedin.com/in/fernando-guzm%C3%A1n-38320a295/]
 
