@@ -5,7 +5,7 @@ Hola, mi nombre es Joel Guzman,Técnico de Nivel Superior en Programacion de Com
 
 MIS CONOCIMIENTOS:
 
-CUPAPACION ACTUAL:
+OCUPAPACION ACTUAL:
 Estudiante
 
 FORMACION ACADEMICA:
