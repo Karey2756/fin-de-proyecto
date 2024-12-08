@@ -5,6 +5,12 @@ Hola, mi nombre es Joel Guzman,Técnico de Nivel Superior en Programacion de Com
 
 MIS CONOCIMIENTOS:
 
+Desarrollo de aplicaciones front- end
+Seminario de Administración de Empresas  para Microempresarios.
+Manejo de herramientas Microsoft Office, Autocad R14.
+Microsoft Proyect, Programa para la Programación y Planificación.
+
+
 OCUPAPACION ACTUAL:
 Estudiante
 
