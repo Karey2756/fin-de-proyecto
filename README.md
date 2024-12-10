@@ -12,7 +12,7 @@ Seminario de Administración de Empresas  para Microempresarios.
 
 Manejo de herramientas Microsoft Office, Autocad R14.
 
-Microsoft Proyect, Programa para la Programación y Planificación. 
+Microsoft Proyect, Programa para la Programación y Planificación.
 
 
 OCUPAPACION ACTUAL:
